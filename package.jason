@@ -1,0 +1,17 @@
+{
+  "name": "init-package-json",
+  "version": "1.10.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/init-package-json.git"
+  },
+  "author": "Nathan Mcilree",
+  "license": "To kill",
+  "description": "Because every cool application needs Node",
+  "dependencies": {
+    "2 cats"
+  },
+  "devDependencies": {
+    "Coffee"
+  },
+}
